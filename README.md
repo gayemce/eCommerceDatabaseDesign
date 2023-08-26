@@ -33,3 +33,9 @@ Bu veritabanı tasarımı, e-ticaret platformunda gerçekleşen işlemleri takip
 
 ![eTicaret Database Diagram](eTicaretDb-1.png)
 ![eTicaret Database Diagram](eTicaretDb-2.png)
+
+## Kurulum
+
+1. Veritabanını oluşturmak için script dosyasını SQL Server Management Studio ile çalıştırın.
+2. Projeyi yerel makinenizde veya sunucunuzda çalıştırın.
+3. Veritabanına erişim kodları ve bağlantı detayları eklemeyi unutmayın.
