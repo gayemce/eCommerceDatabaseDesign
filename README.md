@@ -24,3 +24,12 @@ Proje içerisinde aşağıdaki tablolar bulunmaktadır:
 - **PaymentDetails:** Ödeme detaylarının saklandığı tablo.
 - **SellerTitles:** Satıcıların ünvanlarının kaydedildiği tablo.
 - **TaxDepartments:** Vergi departmanları bilgilerinin saklandığı tablo.
+
+## Amaç
+
+Bu veritabanı tasarımı, e-ticaret platformunda gerçekleşen işlemleri takip etmek, ürün yönetimini kolaylaştırmak, siparişlerin durumunu izlemek ve müşteri ilişkilerini düzenlemek için oluşturulmuştur. Verilerin düzenli bir şekilde saklanması ve erişilmesi, işlemlerin daha etkili ve güvenli bir şekilde gerçekleştirilmesine yardımcı olur.
+
+## E-Ticaret Veritabanı Diyagramı
+
+![eTicaret Database Diagram](eTicaretDb-1.png)
+![eTicaret Database Diagram](eTicaretDb-2.png)
